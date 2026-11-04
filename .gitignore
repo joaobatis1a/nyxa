@@ -6,3 +6,4 @@ playwright-report
 *.local
 design/
 .vercel
+lighthouse/reports/
