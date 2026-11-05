@@ -159,7 +159,7 @@ A minha parte foi definir os requisitos, revisar o código, rodar e depurar os t
 
 ## Autor
 
-**João Batista da Silva Neto**
+**João Batista Neto**
 
 - GitHub: [@joaobatis1a](https://github.com/joaobatis1a)
 - LinkedIn: [joao-batista-silva-neto](https://linkedin.com/in/joao-batista-silva-neto)
